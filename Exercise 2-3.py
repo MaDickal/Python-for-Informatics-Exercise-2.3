@@ -5,4 +5,4 @@ hours = float(hours)
 rate = raw_input('Enter Rate: ')
 rate = float(rate)
 pay = hours * rate
-print pay
+print 'Pay:', pay
